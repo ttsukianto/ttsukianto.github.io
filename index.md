@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/ttsukianto/ttsukianto.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a final year Applied Mathematics-Statistics major at Boise State University with minors in Computer Science and Intermediate Japanese.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests
 
-### Markdown
+- Statistics in the physical sciences
+- Methods for spatio-temporal data
+- Uncertainty quantification
+- Science communication and teaching statistics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Current Projects
 
-```markdown
-Syntax highlighted code block
+- Developing the *animaltracker* R package for spatio-temporal analysis, visualization, and validation of animal data [ [CRAN](https://cran.r-project.org/web/packages/animaltracker/index.html) | [GitHub](https://github.com/mathedjoe/animaltracker) | [ScholarWorks](https://scholarworks.boisestate.edu/under_showcase_2020/184/) ]
+- Creating open-source tools for ambient seismic noise cross-correlation parallelized in Julia on the cloud [ [GitHub](https://github.com/ttsukianto/esip_julia_aws) | [Seismological Society of America Annual Meeting 2020](https://seismosoc.secure-platform.com/a/solicitations/9/sessiongallery/191/application/5521) ]
+- Exploring parametric approaches to model soccer team goals in European leagues [ [GitHub](https://github.com/ttsukianto/CMSAC2020) | [Carnegie Mellon Sports Analytics Conference 2020](http://stat.cmu.edu/cmsac/conference/2020/) ]
+- Modeling seasonal maximum temperature trends in the United States (senior thesis advised by Jaechoul Lee and Mintaek Lee)
 
-# Header 1
-## Header 2
-### Header 3
+### Teaching
 
-- Bulleted
-- List
+I primarily serve as a teaching assistant for statistics courses at the Boise State Department of Mathematics:
 
-1. Numbered
-2. List
+- MATH 361 Probability & Statistics I (current)
+- MATH 360 Engineering Statistics
+- MATH 254 Introduction to Statistics
+- MATH 154 Statistical Reasoning
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ttsukianto/ttsukianto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Email: theophiliasukian(at)u.boisestate.edu
+- Twitter: [@stats_sukianto](https://twitter.com/stats_sukianto)
