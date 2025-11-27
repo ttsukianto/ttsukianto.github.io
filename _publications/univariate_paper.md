@@ -6,7 +6,7 @@ permalink: /publication/local-gp-ohc
 excerpt: ''
 date: 2025-10-01
 venue: 'To be submitted to <i>Journal of Climate</i>'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: '../files/OHC_paper_draft_Nov_25_2025.pdf'
 citation: 'Sukianto, T., M. Kuusela, D. Giglio, A. Mondal, P. Ma, D. Nychka, and M.L. Stein, 2025:  Locally stationary Argo ocean heat content estimates: Modeling, validation and uncertainty quantification.'
 ---
 **Abstract:** Argo profiling floats measure seawater temperature and salinity in the upper 2000

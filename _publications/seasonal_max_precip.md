@@ -6,7 +6,6 @@ permalink: /publication/seasonal-max-precip
 excerpt: ''
 date: 2025-10-01
 venue: 'Under review at <i>Advances in Statistical Climatology, Meteorology and Oceanography</i>'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 citation: 'Lee, J., M. Lee, and T. Sukianto, 2025: Seasonal trend assessment of US extreme precipitation via changepoint segmentation.'
 ---
 **Abstract:** Most climate trend studies analyze long-term trends as a proxy for climate dynamics. However, when examining
